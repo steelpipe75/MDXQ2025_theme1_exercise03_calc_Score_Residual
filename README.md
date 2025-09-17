@@ -1,0 +1,2 @@
+# MDXQ2025_theme1_exercise03_calc_Score_Residual
+MDXQ2025 テーマ1 演習03 スコア計算 残差計算
